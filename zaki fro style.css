@@ -1,0 +1,27 @@
+
+.ty{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 40px;
+}
+.zy{
+    display: flex;
+    width: 0%;
+}
+.yow1{
+    display: flex;
+    width: 40px;
+}
+
+
+
+
+.m{
+    display: flex;
+}
+.n{
+    gap: 10px;
+}
+
+    
